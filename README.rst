@@ -50,3 +50,4 @@ testrepository
 ``$ ./setup.sh.fortest``
 
 for rebase test
+for rebasetest topic22222
