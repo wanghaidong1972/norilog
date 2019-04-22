@@ -48,3 +48,5 @@ testrepository
 ==============
 
 ``$ ./setup.sh.fortest``
+
+for rebase test
